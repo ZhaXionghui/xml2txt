@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>image5.jpeg</filename>
+  <object_num>2</object_num>
+  <size>
+    <width>640</width>
+    <height>640</height>
+  </size>
+  <object>
+    <name>head</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>296</xmin>
+      <ymin>32</ymin>
+      <xmax>348</xmax>
+      <ymax>118</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>head</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>123</xmin>
+      <ymin>65</ymin>
+      <xmax>177</xmax>
+      <ymax>161</ymax>
+    </bndbox>
+  </object>
+</annotation>

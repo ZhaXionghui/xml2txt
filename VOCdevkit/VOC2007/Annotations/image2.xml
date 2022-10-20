@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation>
+  <filename>image2.jpeg</filename>
+  <object_num>3</object_num>
+  <size>
+    <width>640</width>
+    <height>640</height>
+  </size>
+  <object>
+    <name>head</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>343</xmin>
+      <ymin>0</ymin>
+      <xmax>378</xmax>
+      <ymax>45</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>head</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>36</ymin>
+      <xmax>233</xmax>
+      <ymax>116</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>head</name>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>460</xmin>
+      <ymin>0</ymin>
+      <xmax>495</xmax>
+      <ymax>41</ymax>
+    </bndbox>
+  </object>
+</annotation>
